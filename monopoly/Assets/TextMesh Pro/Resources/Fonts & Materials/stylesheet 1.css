@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Jorick';
+    src: url('Jorick-Regular.eot');
+    src: local('Jorick Regular'), local('Jorick-Regular'),
+        url('Jorick-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Jorick-Regular.woff2') format('woff2'),
+        url('Jorick-Regular.woff') format('woff'),
+        url('Jorick-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+

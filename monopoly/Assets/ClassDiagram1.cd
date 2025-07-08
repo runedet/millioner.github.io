@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Estilinet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAACAAAAABIQAAAAAAAAAAAAAAAAABAAAAAgA=</HashCode>
+      <FileName>Assets\estilinet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageChanger">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQKBAAAECFAAAAAIYABAAAAEAAAAAIAAAAEAABAAAA=</HashCode>
+      <FileName>Assets\igroki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonManager">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAIACBAAAAAIBAgAAAgAAAAgAYAAgAAAAAAIAA=</HashCode>
+      <FileName>Assets\knmo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiceRoller">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAwK5qwBECLUkE5BAAGBYoAFACRIwhBcgFmpECAAAGA=</HashCode>
+      <FileName>Assets\kubic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kupi">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAAAAAAAgAEAAAAAABAAAAgEAAAAAA=</HashCode>
+      <FileName>Assets\kupi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAABAAAAAAAAAAAAADAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicManager">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\musik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="musiks">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\musiks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovementBetweenObjects">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACAAAAAAAAwAAAAAAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\NewMonoBehaviourScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgwAggECAAAAAAAEAAAAAQAACAAAAoAACAAQiQAAA=</HashCode>
+      <FileName>Assets\pause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pause1">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAgAECAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\pause1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingsMenu">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAABgCBAAAAQQACBBgAAAAIBCjCCIIAAAQeQgAA=</HashCode>
+      <FileName>Assets\SettingsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
