@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My project (13)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|d:\\my project (13)\\assets\\new folder 2\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder 2\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|d:\\my project (13)\\assets\\overtone\\scripts\\ttsvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|solutionrelative:assets\\overtone\\scripts\\ttsvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|d:\\my project (13)\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TTSVoice.cs",
+              "DocumentMoniker": "D:\\My project (13)\\Assets\\Overtone\\Scripts\\TTSVoice.cs",
+              "RelativeDocumentMoniker": "Assets\\Overtone\\Scripts\\TTSVoice.cs",
+              "ToolTip": "D:\\My project (13)\\Assets\\Overtone\\Scripts\\TTSVoice.cs",
+              "RelativeToolTip": "Assets\\Overtone\\Scripts\\TTSVoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:27:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "D:\\My project (13)\\Assets\\New Folder 2\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder 2\\NewMonoBehaviourScript.cs",
+              "ToolTip": "D:\\My project (13)\\Assets\\New Folder 2\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\New Folder 2\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAYwCUBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:41:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\My project (13)\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "D:\\My project (13)\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-05T06:20:09.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

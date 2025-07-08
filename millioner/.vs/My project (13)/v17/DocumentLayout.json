@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My project (13)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|d:\\my project (13)\\classdiagram2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1EB9457C-9141-5D27-437F-50826BD649FF}|Assembly-CSharp.csproj|solutionrelative:classdiagram2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram2.cd",
+              "DocumentMoniker": "D:\\My project (13)\\ClassDiagram2.cd",
+              "RelativeDocumentMoniker": "ClassDiagram2.cd",
+              "ToolTip": "D:\\My project (13)\\ClassDiagram2.cd*",
+              "RelativeToolTip": "ClassDiagram2.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-05T17:22:36.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
