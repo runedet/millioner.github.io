@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\runed\\source\\repos\\WindowsProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2175A7D3-3498-48EE-A31C-E11A05AEE231}|WindowsProject2\\WindowsProject2.vcxproj|C:\\Users\\runed\\source\\repos\\WindowsProject2\\WindowsProject2\\WindowsProject2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2175A7D3-3498-48EE-A31C-E11A05AEE231}|WindowsProject2\\WindowsProject2.vcxproj|solutionrelative:WindowsProject2\\WindowsProject2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsProject2.cpp",
+              "DocumentMoniker": "C:\\Users\\runed\\source\\repos\\WindowsProject2\\WindowsProject2\\WindowsProject2.cpp",
+              "RelativeDocumentMoniker": "WindowsProject2\\WindowsProject2.cpp",
+              "ToolTip": "C:\\Users\\runed\\source\\repos\\WindowsProject2\\WindowsProject2\\WindowsProject2.cpp",
+              "RelativeToolTip": "WindowsProject2\\WindowsProject2.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-26T11:09:57.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
